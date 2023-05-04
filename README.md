@@ -1,1 +1,2 @@
-# Re-komonCraft
+# Re:komonCraft
+komonoDatapackのリメイク版
